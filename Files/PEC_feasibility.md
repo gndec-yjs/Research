@@ -28,6 +28,7 @@
 ---
 
 ### 💰 Cost Estimate (Lab Prototype)
+
 | Item                                   | Approx. Cost (INR) |
 |----------------------------------------|--------------------|
 | Excitation coil (custom wound)         | ₹2k – ₹5k |
