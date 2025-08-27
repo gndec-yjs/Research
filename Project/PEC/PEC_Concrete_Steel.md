@@ -1,10 +1,10 @@
 # Pulsed Eddy Current (PEC) Based Testing
 
-## What about PEC-based testing
+## What is PEC-based testing?
 Pulsed Eddy Current (PEC) is a non-destructive testing (NDT) method used to inspect steel reinforcement embedded within concrete, not the concrete itself.  
 It is primarily used to detect corrosion and wall thinning in ferromagnetic materials like carbon steel and cast iron.  
 
-## How PEC is used for concrete-enclosed steel
+## How PEC is used for concrete-enclosed steel?
 PEC probes emit a magnetic pulse that penetrates non-conductive materials like concrete.  
 This pulse induces eddy currents in the embedded steel rebar, and the probe measures the decay rate of the resulting electromagnetic field.  
 
