@@ -1,6 +1,6 @@
 # Research
 
-### [PEC based Testing](Project/PEC/index.md)
+### [PEC based Testing](Project/PEC/Index.md)
 
 
 ---
